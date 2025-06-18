@@ -38,7 +38,7 @@ The context here was partly familiar, and partly new, for both of us. So it turn
 The [Pipecat](https://docs.pipecat.ai/introduction) bot code is in the [pipecat](pipecat) directory.
 
   - The main bot code is in [pipecat/gemini_live.py](pipecat/gemini_live.py).
-  - The core system_instruction is in [pipecat/system_instruction.txt](pipecat/system_instruction.txt).
+  - The core system_instruction is in [pipecat/system-instruction.txt](pipecat/system-instruction.txt).
   - The dynamic UI one-shot tool is in [pipecat/genai_single_page_app.py](pipecat/genai_single_page_app.py).
 
 To start a local dev server that will run a bot process when the frontend connects:
