@@ -1,8 +1,12 @@
-# AI Engineer World's Fair 2025: Gemini 2.5 Flash Preview Live API + Pipecat demo
+# AI Engineer World's Fair 2025: Gemini 2.5 Flash Preview Live API + Pipecat
+
+![Gemini 2.5 Flash Preview Live API + Pipecat demo](assets/todo-demo-screenshot-code.png)
+
+YouTube video: https://www.youtube.com/watch?v=2LIZ34U2sA0
 
 ## What
 
- At AI Engineer World's Fair in June 2025, we (Shrestha Basu Mallick and Kwindla Hultman Kramer) gave a talk about building real-world voice agents with advanced features.
+ At AI Engineer World's Fair in June 2025, we ([Shrestha Basu Mallick](https://x.com/shresbm) and [Kwindla Hultman Kramer](https://x.com/kwindla)) gave a talk about building real-world voice agents that leverage advanced features from today's newest models, APIs, and frameworks.
 
  The themes of the talk were:
 
